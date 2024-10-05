@@ -1,0 +1,23 @@
+{
+  "name": "cbh_dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard for CBH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Builder-s-League/CBH_Dashboard.git"
+  },
+  "keywords": [
+    "Dashbaord",
+    "CBH"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Builder-s-League/CBH_Dashboard/issues"
+  },
+  "homepage": "https://github.com/Builder-s-League/CBH_Dashboard#readme"
+}
